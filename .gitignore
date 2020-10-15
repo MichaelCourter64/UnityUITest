@@ -1,6 +1,7 @@
 ###
 # Unity folders and files
 # From https://gist.github.com/FullStackForger/20bbf62861394b1a3de0
+# Added VS cache directory
 ###
 [Aa]ssets/AssetStoreTools*
 [Bb]uild/
@@ -28,6 +29,11 @@ sysinfo.txt
 *.userprefs
 *.pidb
 .DS_Store
+
+###
+# Visual Studio cache directory
+###
+.vs/
 
 ###
 # OS generated
